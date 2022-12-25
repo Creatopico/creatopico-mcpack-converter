@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.19.1-1.2.19/plasmovoice-fabric-1.19.1-1.2.19.jar
+97bdd09cee79099eab41916a5c7b67f2c59225f8

@@ -1,0 +1,25 @@
+[debug] Packaging C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\mcpack-converter_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	DependenciesModel$.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\DependenciesModel$.class
+[debug] 	DependenciesModel.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\DependenciesModel.class
+[debug] 	Main$.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\Main$.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\Main$delayedInit$body.class
+[debug] 	Main.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\Main.class
+[debug] 	MCPackModel$.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\MCPackModel$.class
+[debug] 	MCPackModel.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\MCPackModel.class
+[debug] 	ModHashModel$.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\ModHashModel$.class
+[debug] 	ModHashModel.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\ModHashModel.class
+[debug] 	ModModel$.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\ModModel$.class
+[debug] 	ModModel.class
+[debug] 	  C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes\ModModel.class
+[debug] Done packaging.

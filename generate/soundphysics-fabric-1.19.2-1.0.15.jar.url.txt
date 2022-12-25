@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/qyVF9oeo/versions/M8HvAuai/soundphysics-fabric-1.19.2-1.0.15.jar
+9cccab0a5cfe9b75987c61983743a9a449b994a8

@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar
+227648dc4f6a8604bafc282612a6de47eff70cd8

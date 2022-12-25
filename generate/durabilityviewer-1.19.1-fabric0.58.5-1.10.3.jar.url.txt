@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/LTM1f0yY/versions/1.19.1-fabric0.58.5-1.10.3/durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar
+4c0b3f5906c930d0b28c70248f6a643aa6736632

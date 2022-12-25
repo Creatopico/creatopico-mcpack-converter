@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/J30flQVA/versions/1.0.2/simplechunkloader-1.0.2-1.19.jar
+518456c586e6237996df5f3d9daaf3c283748c9f

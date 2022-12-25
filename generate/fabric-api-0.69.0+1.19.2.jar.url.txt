@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/P7dR8mSH/versions/25Hm7c3j/fabric-api-0.69.0%2B1.19.2.jar
+91ccd8078d374160dcbe176512b203fbd3a5e923

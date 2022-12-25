@@ -1,0 +1,16 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	ModHashModel.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	DependenciesModel.class
+[debug] 	MCPackModel.class
+[debug] 	Main.class
+[debug] 	ModHashModel$.class
+[debug] 	Main$.class
+[debug] 	ModModel.class
+[debug] 	MCPackModel$.class
+[debug] 	ModModel$.class
+[debug] 	DependenciesModel$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Игорь\Desktop\Custom launcher\MCPack converter\target\scala-2.13\classes.bak

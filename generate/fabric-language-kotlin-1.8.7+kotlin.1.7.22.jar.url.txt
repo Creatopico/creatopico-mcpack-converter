@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/Ha28R6CL/versions/yLIAMDzv/fabric-language-kotlin-1.8.7%2Bkotlin.1.7.22.jar
+2f2d38ac49cb1882dc23aeb85e666e0bb76b872d

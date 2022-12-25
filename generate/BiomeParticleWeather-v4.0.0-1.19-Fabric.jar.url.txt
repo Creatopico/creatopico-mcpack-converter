@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/XH09j5fH/versions/sea89ptK/BiomeParticleWeather-v4.0.0-1.19-Fabric.jar
+8f425f2fe40b3412617af0713550676cd16546d0

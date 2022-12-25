@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/P0Mu4wcQ/versions/7.1.1%2Bfabric/artifacts-7.1.1%2Bfabric.jar
+6185aa16369b84f18e6208694509d51bc3304111

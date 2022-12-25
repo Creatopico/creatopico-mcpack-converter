@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zKCl1ATO/chat_heads-0.7.1-fabric-1.19.1.jar
+a514af9368f6c75130df839941f7cdc353b16d7c

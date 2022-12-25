@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/PtjYWJkn/versions/1ha6EuaV/sodium-extra-0.4.14%2Bmc1.19.2-build.80.jar
+11d547e8dc6233defd00e3bdd4dba4922909dd69
